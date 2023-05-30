@@ -4,8 +4,8 @@ Workstation Firewall Group Policy
 
 Based ON :
 
-- https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb
-- https://www.youtube.com/watch?v=InPiE0EOArs
+- [Endpoint Isolation with the Windows Firewall](https://medium.com/@cryps1s/endpoint-isolation-with-the-windows-firewall-462a795f4cfb)
+- [New Zealand 2016 Demystifying the Windows Firewall – Learn how to irritate attackers without crippli](https://www.youtube.com/watch?v=InPiE0EOArs)
 
 I apply all Firewall base rule and export it to Workstation Firewall Policy.wfw , you can import it form Firewall policy on no GPO .
 Or Import compleat GPO .
